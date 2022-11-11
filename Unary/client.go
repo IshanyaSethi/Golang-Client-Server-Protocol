@@ -20,8 +20,8 @@ func main() {
 	// create request
 	req := greetpb.GreetRequest{
 		Greeting: &greetpb.Greeting{
-			FirstName: "Kumar",
-			LastName:  "Saurabh",
+			FirstName: "Ishanya",
+			LastName:  "Sethi",
 		},
 	}
 
